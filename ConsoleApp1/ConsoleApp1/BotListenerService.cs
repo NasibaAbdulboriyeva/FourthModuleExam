@@ -9,7 +9,7 @@ namespace TelegramBot
 {
     public class BotListenerService
     {
-        private static string botToken = "8001669970:AAF6UOQ2K6IsxM-5WiNrm2HWVlrwzCtjWvs";
+        private static string botToken = "jdeefhfhf";
         private TelegramBotClient botClient = new TelegramBotClient(botToken);
         private readonly IBotUserService botUserService;
 
